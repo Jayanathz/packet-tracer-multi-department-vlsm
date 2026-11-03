@@ -23,7 +23,7 @@ The project focuses on VLSM subnetting, network addressing, router connectivity,
 
 The topology includes four departmental LANs interconnected through Cisco routers.
 
-A screenshot of the completed Cisco Packet Tracer topology will be added here.
+![Multi-Department Network Topology](topology.png)
 
 ## VLSM Subnetting Plan
 
